@@ -20,3 +20,5 @@
   - [How to fix `IStoreListener’ could not be found](pages/019-_BATTLE-IO---How-to-fix--IStoreListener--could-not-be-found)
   - [How to use character created by Fantasy Customizable Pack](pages/020-_Fantasy-Customizable-Pack---How-to-create-character-for-BATTLE-IO--BOMBER-IO--SHOOTER-IO)
   - [How to fix “NullReferenceException: Object reference not set to an instance of an object UIGameplay.UpdateRankings”](pages/021-_How-to-fix--NullReferenceException--Object-reference-not-set-to-an-instance-of-an-object-)
+  - [How to update to PUN2](pages/101-update-to-pun2.md)
+  - [Playfab integration](pages/102-playfab-integration.md)
