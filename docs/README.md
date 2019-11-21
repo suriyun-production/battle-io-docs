@@ -21,7 +21,7 @@ This is the guide for Battle IO game template which selling at Unity Asset Store
 *   [How to add Bot profiles](pages/011-how-to-add-bot-profiles)
 *   [Monetization, In Game Packages, IAP Products](pages/012-_BATTLE-IO---Monetization--In-Game-Packages--IAP-Products)
 *   [How to add new currency](pages/013-_How-to-add-new-currency-for-BATTLE-IO--BOMBER-IO--SHOOTER-IO)
-*   [Ads Monetization](pages/014-_BATTLE-IO---Ads-Monetization)
+*   [Unity Ads Integration](pages/103-unity-ads-integration.md)
 *   [Admob Integration](pages/015-_How-to-integrate-Admob-to-Battle-IO---Shooter-IO---Bomber-I)
 *   [Dedicate server](pages/016-_BATTLE-IO---Dedicate-server)
 *   [Dedicate server command line arguments](pages/017-_BATTLE-IO--BOMBER-IO--SHOOTER-IO---Dedication-Command-Line-Arguments)
