@@ -1,6 +1,6 @@
 # Changelog (UNET)
 
-1.61
+1.61 (2020-02-12)
 - Add `StatusEffectEntity` which can set to `DamageEntity` or `SkillData` as a buffs or nerfs to increase or decrease character's stats.
 - Fix null exceptions occuring after enter or exit `HideArea`
 
