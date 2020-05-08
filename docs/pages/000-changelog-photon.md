@@ -1,5 +1,10 @@
 # Changelog (PUN2)
 
+1.24 (2020-05-08)
+- Fix team death match kill count and score don't reset when start new match
+- Fix black fade not fade out when start game sometime
+- Fix kill count / score won't increase after character killed by `StatusEffectEntity`
+
 1.23b (2020-04-16)
 - Fix stack overflow while playing Battle Royale
 - Add `NO_IAP` and `NO_ADS` predefined to disable IAP or ADS
