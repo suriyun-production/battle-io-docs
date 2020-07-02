@@ -36,7 +36,6 @@ Then in character data set **Character Model** to character model prefab that yo
 
 ![](../images/0Mz81nBGddeP-IjhW.png)
 
-
 ## Add created Character Data to Game Instance
 
 Then open **Home** scene add character data to **GameInstance**
