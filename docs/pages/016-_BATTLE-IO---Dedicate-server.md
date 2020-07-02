@@ -1,8 +1,4 @@
-* * *
-
-![](../images/14XoD2maN6RhhERRnXPtpoA.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN))
+# Dedicate server
 
 This is example to dedicate server via [Digital Ocean](https://m.do.co/c/03d10d801aee)
 

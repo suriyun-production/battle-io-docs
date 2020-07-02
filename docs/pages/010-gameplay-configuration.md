@@ -1,8 +1,4 @@
-* * *
-
-![](../images/14XoD2maN6RhhERRnXPtpoA.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN))
+# Gameplay Manager configuration
 
 In **Battle** scene you will see **GameplayManager** game object
 
@@ -19,7 +15,8 @@ You can set gameplay configuration here, There are following configs
 *   **Min Attack** is min attack for all characters
 *   **Min Defend** is min defend for all characters
 *   **Min Move Speed** is min move speed for all characters
-*   **Max Spread Damages**
+*   **Max Spread Damages** maximum about of damage entities that can be spawned when character attack
+*   **Divide Spreaded Damage Amount** if this is `TRUE`, damage amount will be divided by amount of spread damages
 *   **Adding​ ​Stat​ ​Point**​​ ​is​s​Stat​ ​point​ ​which​ ​will​ ​increase when​ ​level​ ​up​ ​this​ ​is​ ​required​ ​to​ ​add​ ​an​ ​stats
 *   **Min Attack Vary Rate**, **Max Attack Vary Rate** are Rate that will be random by min and max value to multiply with attack
 *   **Available Attributes** an character attributes, it will be random to let players choose which attributes they want to add when level up

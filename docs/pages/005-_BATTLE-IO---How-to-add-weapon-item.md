@@ -1,8 +1,4 @@
-* * *
-
-![](../images/14XoD2maN6RhhERRnXPtpoA.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN))
+# How to add weapon item
 
 Things you have to do to add new weapon item for this template are:
 
@@ -12,6 +8,8 @@ Things you have to do to add new weapon item for this template are:
 *   Add created **Weapon Data** to **Game Instance**
 
 Okay, Let’s start
+
+## Prepare Weapon Model
 
 First, prepare right hand / left hand weapon and/or shield models. You may create empty scene then drag your weapon model into the scene to manage them, Then make them as prefab
 
@@ -31,6 +29,8 @@ To create it you may prepare a model such as bullet model then add Damage Entity
 Then you have to add any collider to make it able to collided by characters
 
 And then make it as prefab you will use it to set in **WeaponData**
+
+## Create and set Weapon Data
 
 Next, you have to create **WeaponData**, right click on anywhere in Project tab choose **Create -> ScriptableObject**
 
@@ -54,6 +54,8 @@ Another parameter there are
 For version 1.3 and above **Action Id**, **Animation Duration** and **Launch Duration** will be moved to **Attack Animations**
 
 ![](../images/1hacu0Hbk9vGMSUJhSg4MGg.png)
+
+## Add created Weapon Data to Game Instance
 
 Then open **Home** scene add weapon data to **GameInstance**
 

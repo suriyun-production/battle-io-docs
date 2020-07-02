@@ -1,8 +1,4 @@
-* * *
-
-![](../images/14XoD2maN6RhhERRnXPtpoA.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN))
+# How to add new scene
 
 To add new scene, you have to prepare scene which have terrain, ground, wall
 

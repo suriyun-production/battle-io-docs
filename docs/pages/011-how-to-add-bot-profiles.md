@@ -1,8 +1,4 @@
-* * *
-
-![](../images/14XoD2maN6RhhERRnXPtpoA.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN))
+# How to add bot profile
 
 In **Home** scene you will see **GameInstance** game object, in the **Game Instance** component you can set bots configuration in **Bots** list, each entries you can set:
 

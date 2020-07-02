@@ -1,8 +1,4 @@
-* * *
-
-![](../images/14XoD2maN6RhhERRnXPtpoA.png)
-
-This is the guide for Battle IO game template which selling at Unity Asset Store ([https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN](https://www.assetstore.unity3d.com/#!/content/101113?aid=1100lGeN))
+# Character attack in depth
 
 If you are already read **How to add new weapon item**, In that part you will see about **WeaponData** which contains **Action Id**, **Animation Duration** and **Launch Duration** that you may doubt how it working.
 
