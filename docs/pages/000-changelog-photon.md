@@ -3,6 +3,7 @@
 1.25 (2020-07-02)
 - Change to move characters by changes transform's position, rigibody will be used to applies force.
 - Add `ExplosionForce` and `ExplosionForceRadius` settings to `Damage Entity` it will applies to force character when damage entity hit or explode.
+- Add `DivideSpreadedDamageAmount` if this is `TRUE`, damage amount will be divided by amount of spread damages.
 
 1.24 (2020-05-08)
 - Fix team death match kill count and score don't reset when start new match
