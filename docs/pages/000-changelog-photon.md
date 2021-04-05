@@ -1,5 +1,10 @@
 # Changelog (PUN2)
 
+## 1.27b (2021-04-05)
+- Fix null data break update loop.
+- Fix unsynced aim position.
+- Don't update aim position for non-owning characters.
+
 ## 1.27 (2021-03-29)
 - Improve character movement, now it has to attached `CharacterMovement` component to `CharacterEntity` when you attaches `CharacterMovement` component, you have to set `CharacterController` settings to cover your character and you have to set attached colliders to be trigger collider.
 - Add third person view mode, you have to change `FollowCamera` component which usaully attached to main camera to `FollowCameraControls` component.
