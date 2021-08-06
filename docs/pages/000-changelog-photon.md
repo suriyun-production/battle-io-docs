@@ -1,5 +1,9 @@
 # Changelog (PUN2)
 
+## 1.28 (2021-08-07)
+- Reduce packet size.
+- Add blocking action.
+
 ## 1.27b (2021-04-05)
 - Fix null data break update loop.
 - Fix unsynced aim position.
