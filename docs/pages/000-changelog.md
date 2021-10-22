@@ -1,5 +1,11 @@
 # Changelog (LiteNetLibManager)
 
+## 1.73 (2021-10-22)
+- Fix character cannot being pushed by forces.
+- Fix character cannot change weapon by attributes.
+- Fix status effects not being applied properly.
+- Fix Playfab data exporter not export bundles.
+
 ## 1.72 (2021-08-07)
 - Reduce packet size.
 - Add blocking action.
