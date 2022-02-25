@@ -1,5 +1,9 @@
 # Changelog (PUN2)
 
+## 1.29b (2022-02-26)
+- Update to Unity version 2020.3.26f1.
+- Fix score and kills not being counted properly.
+
 ## 1.29 (2021-10-22)
 - Fix character cannot being pushed by forces.
 - Fix character cannot change weapon by attributes.
